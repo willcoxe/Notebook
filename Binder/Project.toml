@@ -2,3 +2,5 @@ name = "Binder"
 uuid = "2c19d085-dce4-415d-8c21-83986d5b9656"
 authors = ["Esty <willcoxe@myumanitoba.ca>"]
 version = "0.1.0"
+[compat]
+julia = "1.7"
